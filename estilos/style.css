@@ -16,7 +16,7 @@
     position: fixed;
     width: 100%;
     padding: 15px 0px;
-    background: rgb(56, 44, 88);
+    background: rgb(17, 128, 128);
     font-family: 'Ubuntu', sans-serif;
 }
 .navbar .max-width{
@@ -42,7 +42,7 @@
 /* Home inicio */
 .home{
     display: flex;
-    background: rgb(14, 11, 22);
+    background: rgb(128, 128, 128);
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -64,5 +64,5 @@
     margin: 5px 0;
 }
 .home .home-content .text-3 span{
-    color: rgb(56, 44, 88);
+    color: rgb(128, 128, 128);
 }
